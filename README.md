@@ -38,6 +38,8 @@ Images must all be placed in a directory. The images are found using a pattern
 in the command line. For example, for the images "./input/frame001.png",
 "./input/frame002.png", ..., you would use "-i frame%03d.png" to find the images.
 
+And you need to create a folder called "debug" under this directory, to store the intermediary figures of the progress. And you need to download a ".ttf" file under this directory and change it name to "Hack-Regular.ttf" to make sure it can run steadily.
+
 Usage
 -----
 
